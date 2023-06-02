@@ -37,14 +37,14 @@
   <br>
   <br>
   <p>BACK-END:</p> 
-  <img src="https://i.pinimg.com/474x/9a/97/f2/9a97f259c5191c818feba7c1af3c068d.jpg" alt="node.js" height="45"/>
-  <img src="https://image.pngaaa.com/262/4152262-middle.png" alt="django" height="45"/>
+  <img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" alt="node.js" width="50" height="50"/>
+  <img src="https://logodix.com/logo/1758841.png" alt="django" width="45" height="45"/>
   <img src="https://cdn.hackr.io/uploads/topics/14856024154UblbgNRjL.png" alt="flask" width="45" height="45"/>
   <img src="https://elearning.univ-constantine2.dz/elearning/pluginfile.php/55865/course/overviewfiles/oop.jpg" alt="oop" width="45" height="45"/>
   <br>
   <br>
   <p>DATABASE:</p> 
-  <img src="https://www.clowderapp.com/hubfs/sql-database-server-isolated-flat-web-mobile-icon-vector-22660337-1.jpg" alt="mysql" height="35"/>
+  <img src="https://excelclasstraining.com/wp-content/uploads/2020/04/sql-training-icon.jpg" alt="mysql" width="45" height="45"/>
   <br>
   <br>
  </div>
