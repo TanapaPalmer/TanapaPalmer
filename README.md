@@ -1,9 +1,9 @@
 <div align="center">
   <p>
-    <img src="https://capsule-render.vercel.app/api?text=WELCOME!&animation=blinking&type=waving&color=0:6F7C80,100:7F9A9D&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?text=WELCOME&animation=blinking&type=waving&color=0:6F7C80,100:7F9A9D&fontColor=ffffff"/>
     <br>
     <br>
-    TO TANAPA GITHUB
+    TO MY GITHUB!!!
     <br>
     <br>
   </p>
