@@ -33,7 +33,7 @@
   <img src="https://icon-library.com/images/jquery-icon/jquery-icon-0.jpg" alt="jquery" width="45" height="45"/>
   <img src="https://th.bing.com/th/id/OIP.m_Ht_BZhIVmu4nDAL-bxoAHaHa?pid=ImgDet&rs=1" alt="ajax" width="45" height="45"/>
   <img src="https://png.pngtree.com/png-vector/20190413/ourlarge/pngtree-json-file-document-icon-png-image_938307.jpg" alt="json" width="45" height="45"/>
-  <img src="https://www.chemical-design.com/img/services/bootstrap-logo.png" alt="bootstrap" width="45" height="45"/>
+  <img src="https://www.chemical-design.com/img/services/bootstrap-logo.png" alt="bootstrap" height="45"/>
   <br>
   <br>
   <p>BACK-END:</p> 
