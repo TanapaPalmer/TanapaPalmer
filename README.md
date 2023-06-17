@@ -16,8 +16,10 @@
   <br>
   <br>
 </div>
+
 <hr>
-<div>
+
+<div align="center">
   <br>
   <h2>SPECIALTIES</h2>
   <p>LANGUAGES:</p>
@@ -48,10 +50,12 @@
   <br>
   <br>
  </div>
+ 
  <hr>
- <div>
+ 
+ <div align="center">
   <br>
-   <h2>TRILINGUAL</h2>
+  <h2>TRILINGUAL</h2>
   <img src="https://cdn1.iconfinder.com/data/icons/ensign-11/512/254_Ensign_Flag_Nation_thailand-512.png" alt="thai" height="45"/>
   <img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/United-States_flat.png" alt="english" height="45"/>
   <img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Germany_flat.png" alt="german" height="45"/>
