@@ -19,15 +19,16 @@
 
 <hr>
 
-<div align="center">
+<div>
   <br>
-  <h2>SPECIALTIES</h2>
+  <h2>THINGS I CODE WITH:</h2>
   <p>LANGUAGES:</p>
-  <img src="https://s.clipartkey.com/mpngs/s/49-498343_html-css-icon-png.png" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt="python" height="45"/>
-  <img src="https://openclipart.org/image/300px/svg_to_png/199790/primary-javascript.png" alt="javascript" width="40"  height="40"/>
-  <img src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/java-512.png" alt="java" width="45"  height="45"/>
-  <img src="https://www.shareicon.net/data/256x256/2015/08/31/93779_css3_512x512.png" alt="css" width="45"  height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt="html" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svgg" alt="css" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt="python" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="javascript" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" height="30"/>
+
   <br>
   <br>
   <p>FRONT-END:</p> 
