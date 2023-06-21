@@ -24,7 +24,7 @@
   <h2>SPECIALTIES</h2>
   <p>LANGUAGES:</p>
   <img src="https://s.clipartkey.com/mpngs/s/49-498343_html-css-icon-png.png" alt="html" width="40" height="40"/>
-  <img src="https://www.cloudanalogy.com/wp-content/uploads/elementor/thumbs/iCON-PYTHON-oedzk6894d33bzo1webzedsnoontboevcey6e7okec.png" alt="python" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt="python" height="45"/>
   <img src="https://openclipart.org/image/300px/svg_to_png/199790/primary-javascript.png" alt="javascript" width="40"  height="40"/>
   <img src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/java-512.png" alt="java" width="45"  height="45"/>
   <img src="https://www.shareicon.net/data/256x256/2015/08/31/93779_css3_512x512.png" alt="css" width="45"  height="45"/>
