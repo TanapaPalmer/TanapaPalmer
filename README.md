@@ -21,35 +21,26 @@
 
 <div>
   <br>
-  <h2>THINGS I CODE WITH:</h2>
-  <p>LANGUAGES:</p>
+  <p>THINGS I CODE WITH:</p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt="html" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" alt="css" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt="python" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="javascript" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" height="45"/>
 
-  <br>
-  <br>
-  <p>FRONT-END:</p> 
   <img src="https://cdn3.iconfinder.com/data/icons/brands-pack/240/react-512.png" alt="react" width="45" height="45"/>
   <img src="https://icon-library.com/images/jquery-icon/jquery-icon-0.jpg" alt="jquery" width="45" height="45"/>
   <img src="https://th.bing.com/th/id/OIP.m_Ht_BZhIVmu4nDAL-bxoAHaHa?pid=ImgDet&rs=1" alt="ajax" width="45" height="45"/>
   <img src="https://png.pngtree.com/png-vector/20190413/ourlarge/pngtree-json-file-document-icon-png-image_938307.jpg" alt="json" width="45" height="45"/>
   <img src="https://www.chemical-design.com/img/services/bootstrap-logo.png" alt="bootstrap" height="45"/>
-  <br>
-  <br>
-  <p>BACK-END:</p> 
+
   <img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" alt="node.js" width="50" height="50"/>
   <img src="https://logodix.com/logo/1758841.png" alt="django" width="45" height="45"/>
   <img src="https://cdn.hackr.io/uploads/topics/14856024154UblbgNRjL.png" alt="flask" width="45" height="45"/>
   <img src="https://elearning.univ-constantine2.dz/elearning/pluginfile.php/55865/course/overviewfiles/oop.jpg" alt="oop" width="45" height="45"/>
-  <br>
-  <br>
-  <p>DATABASE:</p> 
+
   <img src="https://excelclasstraining.com/wp-content/uploads/2020/04/sql-training-icon.jpg" alt="mysql" width="45" height="45"/>
-  <br>
-  <br>
+
  </div>
  
  <hr>
