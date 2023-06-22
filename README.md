@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/react-53C6D9?logo=react&logoColor=white&style=for-the-badge" alt="react" height="20"/>
   <img src="https://img.shields.io/badge/jquery-D7BDAA?logo=jquery&logoColor=white&style=for-the-badge" alt="jquery" height="20"/>
   <img src="https://img.shields.io/badge/node.js-7ED9CA?logo=node.js&logoColor=white&style=for-the-badge" alt="node.js" height="20"/>
-  <img src="https://img.shields.io/badge/bootstrap-BCA8A6?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap" height="20"/>
+  <img src="https://img.shields.io/badge/bootstrap-BCA8E6?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap" height="20"/>
 
   <img src="https://th.bing.com/th/id/OIP.m_Ht_BZhIVmu4nDAL-bxoAHaHa?pid=ImgDet&rs=1" alt="ajax" width="45" height="45"/>
   <img src="https://png.pngtree.com/png-vector/20190413/ourlarge/pngtree-json-file-document-icon-png-image_938307.jpg" alt="json" width="45" height="45"/>
