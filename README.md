@@ -1,7 +1,6 @@
 <div align="center">
-  <p>
-    <img src="https://capsule-render.vercel.app/api?text=WELCOME!&animation=blinking&type=waving&color=0:859DDA,100:F7ABBE&fontColor=ffffff"/>
-  </p>
+  
+  <img src="https://capsule-render.vercel.app/api?text=WELCOME!&animation=blinking&type=waving&color=0:859DDA,100:F7ABBE&fontColor=ffffff"/>
   <p>LET'S CONNECT:</p>
     <a href="https://www.linkedin.com/in/tanapa-palmer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/119079803/242725149-788e7d06-6aca-44a4-9580-524b4fc90407.png" alt="linkedin" width="45" height="45"/>
     <a href="https://www.instagram.com/ikq.tanapa/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/119079803/242727252-120abc8f-a42d-4151-985b-fab587c8bcb1.png" alt="instagram" width="45" height="45"/>
@@ -12,8 +11,7 @@
 <hr>
 
 <div>
-  <br>
-  <p><u>LANGUAGES & TOOLS</u></p>
+  <p><strong>LANGUAGES & TOOLS</strong></p>
   <p>Languages:</p>
     <img src="https://img.shields.io/badge/html-FAAFA2?logo=html5&logoColor=white&style=for-the-badge" alt="html" height="20"/>
     <img src="https://img.shields.io/badge/Css-C9E0EC?logo=css3&logoColor=white&style=for-the-badge" alt="css" height="20"/>
