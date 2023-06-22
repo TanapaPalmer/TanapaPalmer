@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/flask-A3A6AD?logo=flask&logoColor=white&style=for-the-badge" alt="flask" height="20"/>
   <img src="https://img.shields.io/badge/oop-F7ABBE?logo=oop&logoColor=white&style=for-the-badge" alt="oop" height="20"/>
   <img src="https://img.shields.io/badge/mysql-859DDA?logo=mysql&logoColor=white&style=for-the-badge" alt="mysql" height="20"/>
+  <img src="https://img.shields.io/badge/mongoose-FFBE91?logo=mongoose&logoColor=white&style=for-the-badge" alt="mongoose" height="20"/>
  </div>
  
  <hr>
