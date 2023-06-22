@@ -7,7 +7,7 @@
     <br>
     <br>
   </p>
-  <h2 font-family= 'Fira Code'>LET'S GET CONNECTED!</h2>
+  <h2>LET'S GET CONNECTED!</h2>
   <br>
     <a href="https://www.linkedin.com/in/tanapa-palmer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/119079803/242725149-788e7d06-6aca-44a4-9580-524b4fc90407.png" alt="linkedin" width="45" height="45"/></a>
     <a href="https://www.instagram.com/ikq.tanapa/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/119079803/242727252-120abc8f-a42d-4151-985b-fab587c8bcb1.png" alt="instagram" width="45" height="45"/></a>
