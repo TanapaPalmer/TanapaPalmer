@@ -21,8 +21,9 @@
   <img src="https://img.shields.io/badge/javascript-F7E3AF?logo=javascript&logoColor=white&style=for-the-badge" alt="javascript" height="20"/>
   <img src="https://img.shields.io/badge/java-D291BC?logo=java&logoColor=white&style=for-the-badge" alt="java" height="20"/>
   <img src="https://img.shields.io/badge/react-53C6D9?logo=react&logoColor=white&style=for-the-badge" alt="react" height="20"/>
+  <img src="https://img.shields.io/badge/jquery-D7BDAA?logo=jquery&logoColor=white&style=for-the-badge" alt="jquery" height="20"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" alt="react"  height="45"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original-wordmark.svg" alt="jquery" height="45"/>
   <img src="https://th.bing.com/th/id/OIP.m_Ht_BZhIVmu4nDAL-bxoAHaHa?pid=ImgDet&rs=1" alt="ajax" width="45" height="45"/>
   <img src="https://png.pngtree.com/png-vector/20190413/ourlarge/pngtree-json-file-document-icon-png-image_938307.jpg" alt="json" width="45" height="45"/>
