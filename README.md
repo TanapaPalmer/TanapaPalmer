@@ -10,8 +10,9 @@
 <hr>
 
 <div>
-  <p><strong>ABOUT ME</strong></p>
-  :pencil2:
+  <p><strong>ABOUT ME</strong>
+  :pencil2: My name is Tanapa
+  :memo: I am currently </p>
 </div>
 
 <hr>
