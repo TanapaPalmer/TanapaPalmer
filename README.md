@@ -26,13 +26,9 @@
   <img src="https://img.shields.io/badge/node.js-7ED9CA?logo=node.js&logoColor=white&style=for-the-badge" alt="node.js" height="20"/>
   <img src="https://img.shields.io/badge/bootstrap-BCA8E6?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap" height="20"/>
   <img src="https://img.shields.io/badge/ajax-85B1D4?logo=ajax&logoColor=white&style=for-the-badge" alt="ajax" height="20"/>
+  <img src="https://img.shields.io/badge/json-FCFC99?logo=json&logoColor=white&style=for-the-badge" alt="json" height="20"/>
+  <img src="https://img.shields.io/badge/django-A0D098?logo=django&logoColor=white&style=for-the-badge" alt="django" height="20"/>
 
-
-  <img src="https://png.pngtree.com/png-vector/20190413/ourlarge/pngtree-json-file-document-icon-png-image_938307.jpg" alt="json" width="45" height="45"/>
-
-
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" alt="django" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" alt="flask" height="45"/>
   <img src="https://elearning.univ-constantine2.dz/elearning/pluginfile.php/55865/course/overviewfiles/oop.jpg" alt="oop" width="45" height="45"/>
 
