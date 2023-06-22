@@ -13,7 +13,7 @@
 <div>
   <br>
   <p>THINGS I CODE WITH:</p>
-  <img src="https://img.shields.io/badge/Python-green?logo=python&logoColor=white&style=for-the-badge" height="20"/>
+  <img src="https://img.shields.io/badge/HTML-FAAFA2?logo=html&logoColor=white&style=for-the-badge" alt="html" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt="html" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" alt="css" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt="python" height="45"/>
