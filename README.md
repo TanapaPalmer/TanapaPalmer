@@ -29,8 +29,7 @@
   <img src="https://img.shields.io/badge/json-FCFC99?logo=json&logoColor=white&style=for-the-badge" alt="json" height="20"/>
   <img src="https://img.shields.io/badge/django-A0D098?logo=django&logoColor=white&style=for-the-badge" alt="django" height="20"/>
   <img src="https://img.shields.io/badge/flask-A3A6AD?logo=flask&logoColor=white&style=for-the-badge" alt="flask" height="20"/>
-
-  <img src="https://elearning.univ-constantine2.dz/elearning/pluginfile.php/55865/course/overviewfiles/oop.jpg" alt="oop" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/oop-F7ABBE?logo=oop&logoColor=white&style=for-the-badge" alt="oop" height="20"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="45"/>
 
