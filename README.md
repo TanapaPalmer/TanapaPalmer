@@ -12,9 +12,10 @@
 <div>
   <p><strong>ABOUT ME</strong></p>
   <p>:pencil2: My name is Tanapa and I'm originally from Thailand</p>
+  <p>:sparkles: I speak 3 languages: Thai, English and German</p>
   <p>:memo: I am currently a student at Coding Dojo for Software Developer</p>
   <p>:rocket: My goal is to become a Full Stack Developer</p>
-  <p>:see_no_evil: Fun fact I like to debug while I'm having my Matcha Latte next to me</p>
+  <p>:bug: Fun fact I like to debug while I'm having my Matcha Latte next to me</p>
 </div>
 
 <hr>
@@ -47,11 +48,7 @@
  <hr>
  
  <div align="center">
-  <br>
-  <h2>TRILINGUAL</h2>
-  <img src="https://cdn1.iconfinder.com/data/icons/ensign-11/512/254_Ensign_Flag_Nation_thailand-512.png" alt="thai" height="45"/>
-  <img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/United-States_flat.png" alt="english" height="45"/>
-  <img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Germany_flat.png" alt="german" height="45"/>
+
  </div>
   
 
