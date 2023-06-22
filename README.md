@@ -47,8 +47,8 @@
  
  <hr>
  
- <div align="center">
-
+ <div>
+    <p><strong>:see_no_evil: "When I'm sad, I sing. Then I realized, my voice is worse than my problem." :see_no_evil:</strong></p>
  </div>
   
 
