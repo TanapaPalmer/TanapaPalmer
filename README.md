@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Css-C9E0EC?logo=css3&logoColor=white&style=for-the-badge" alt="css" height="20"/>
   <img src="https://img.shields.io/badge/python-9599B5?logo=python&logoColor=white&style=for-the-badge" alt="python" height="20"/>
   <img src="https://img.shields.io/badge/javascript-F7E3AF?logo=javascript&logoColor=white&style=for-the-badge" alt="javascript" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg-D291BC?logo=java&logoColor=white&style=for-the-badge" alt="java" height="20"/>
+  <img src="https://img.shields.io/badge/java-D291BC?logo=java&logoColor=white&style=for-the-badge" alt="java" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt="html" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" alt="css" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="javascript" height="45"/>
