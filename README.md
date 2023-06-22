@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://capsule-render.vercel.app/api?text=WELCOME!&animation=blinking&type=waving&color=0:B8E8D1,100:E38F95&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?text=WELCOME!&animation=blinking&type=waving&color=0:FCFC99,100:FAAFA2&fontColor=ffffff"/>
   </p>
   <p>LET'S CONNECT:</p>
     <a href="https://www.linkedin.com/in/tanapa-palmer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/119079803/242725149-788e7d06-6aca-44a4-9580-524b4fc90407.png" alt="linkedin" width="45" height="45"/>
