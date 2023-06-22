@@ -11,12 +11,10 @@
 
 <div>
   <p><strong>ABOUT ME</strong></p>
-  <p>
-    :pencil2: My name is Tanapa and I'm originally from Thailand
-    :memo: I am currently a student at Coding Dojo for Software Developer
-    :rocket: My goal is to become a Full Stack Developer
-    :see_no_evil: Fun fact I like to debug while I'm having my Matcha Latte next to me
-  </p>
+  <p>:pencil2: My name is Tanapa and I'm originally from Thailand</p>
+  <p>:memo: I am currently a student at Coding Dojo for Software Developer</p>
+  <p>:rocket: My goal is to become a Full Stack Developer</p>
+  <p>:see_no_evil: Fun fact I like to debug while I'm having my Matcha Latte next to me</p>
 </div>
 
 <hr>
