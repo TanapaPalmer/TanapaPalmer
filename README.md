@@ -16,7 +16,7 @@
   
   
   <img src="https://img.shields.io/badge/html-FAAFA2?logo=html&logoColor=white&style=for-the-badge" alt="html" height="20"/>
-  <img src="https://img.shields.io/badge/Css-C9E0EC?logo=css&logoColor=white&style=for-the-badge" alt="css" height="20"/>
+  <img src="https://img.shields.io/badge/Css-C9E0EC?logo=css3&logoColor=white&style=for-the-badge" alt="css" height="20"/>
   <img src="https://img.shields.io/badge/python-9599B5?logo=python&logoColor=white&style=for-the-badge" alt="python" height="20"/>
   <img src="https://img.shields.io/badge/java-F7E3AF?logo=java&logoColor=white&style=for-the-badge" alt="java" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt="html" height="45"/>
