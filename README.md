@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/django-A0D098?logo=django&logoColor=white&style=for-the-badge" alt="django" height="20"/>
   <img src="https://img.shields.io/badge/flask-A3A6AD?logo=flask&logoColor=white&style=for-the-badge" alt="flask" height="20"/>
   <img src="https://img.shields.io/badge/oop-F7ABBE?logo=oop&logoColor=white&style=for-the-badge" alt="oop" height="20"/>
-  <img src="https://img.shields.io/badge/mysql-3D4578?logo=mysql&logoColor=white&style=for-the-badge" alt="mysql" height="20"/>
+  <img src="https://img.shields.io/badge/mysql-859DDA?logo=mysql&logoColor=white&style=for-the-badge" alt="mysql" height="20"/>
  </div>
  
  <hr>
