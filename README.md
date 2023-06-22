@@ -25,10 +25,11 @@
   <img src="https://img.shields.io/badge/jquery-D7BDAA?logo=jquery&logoColor=white&style=for-the-badge" alt="jquery" height="20"/>
   <img src="https://img.shields.io/badge/node.js-7ED9CA?logo=node.js&logoColor=white&style=for-the-badge" alt="node.js" height="20"/>
   <img src="https://img.shields.io/badge/bootstrap-BCA8E6?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap" height="20"/>
+  <img src="https://img.shields.io/badge/ajax-85B1D4?logo=ajax&logoColor=white&style=for-the-badge" alt="ajax" height="20"/>
 
-  <img src="https://th.bing.com/th/id/OIP.m_Ht_BZhIVmu4nDAL-bxoAHaHa?pid=ImgDet&rs=1" alt="ajax" width="45" height="45"/>
+
   <img src="https://png.pngtree.com/png-vector/20190413/ourlarge/pngtree-json-file-document-icon-png-image_938307.jpg" alt="json" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" height="45"/>
+
 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" alt="django" height="45"/>
