@@ -50,7 +50,9 @@
  <div>
   <p><strong>MY STATS</strong></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TanapaPalmer&theme=dracula&background=000000)](https://git.io/streak-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanapaPalmer&hide_progress=true&theme=dracula&background=000000)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TanapaPalmer&theme=dracula&background=000000)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanapaPalmer&theme=dracula&background=000000)
   
 </div>
 
