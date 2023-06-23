@@ -55,6 +55,13 @@
  </div>
 
   <hr>
+
+<div>
+  <p><strong>MOST USED LANGUAGES</strong></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanapaPalmer&hide_progress=true)
+  
+</div>
   
  <div align="center">
     <p><strong>:see_no_evil: "When I can't debug, I sing. Then I realized, my voice is worse than those errors." :see_no_evil:</strong></p>
