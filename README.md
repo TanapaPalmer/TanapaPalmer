@@ -48,7 +48,7 @@
  <hr>
 
  <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?TanapaPalmer=your-github-TanapaPalmer&layout=compact&theme=vision-friendly-dark)](https://github.com/TanapaPalmer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanapaPalmer&layout=compact&theme=vision-friendly-dark)](https://github.com/TanapaPalmer/github-readme-stats)
    
  </div>
  
