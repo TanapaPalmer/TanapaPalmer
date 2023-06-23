@@ -54,6 +54,9 @@
 
 </div>
 
+<br>
+<br>
+
 <div align="center">
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanapaPalmer&theme=dracula&hide_progress=true)
