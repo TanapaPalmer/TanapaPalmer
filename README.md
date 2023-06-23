@@ -50,7 +50,7 @@
  <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanapaPalmer)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TanapaPalmer&theme=dark&background=fcf7de)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TanapaPalmer&theme=dark&background=b6d3db)](https://git.io/streak-stats)
    
  </div>
  
