@@ -43,14 +43,22 @@
   <p>Database:</p>
     <img src="https://img.shields.io/badge/mysql-859DDA?logo=mysql&logoColor=white&style=for-the-badge" alt="mysql" height="20"/>
     <img src="https://img.shields.io/badge/mongodb-FFBE91?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb" height="20"/>
- </div>
+</div>
  
- <hr>
+<hr>
 
- <div align="center">
+<div align="center">
   <p><strong>MY STATS</strong></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TanapaPalmer&theme=dracula&background=000000&height=50)](https://git.io/streak-stats)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanapaPalmer&theme=dracula&hide_progress=true&height=50)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TanapaPalmer&theme=dracula&background=000000)](https://git.io/streak-stats)
+
+</div>
+
+<hr>
+
+<div align="center">
+   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanapaPalmer&theme=dracula&hide_progress=true)
   
 </div>
 
