@@ -60,9 +60,7 @@
   <br>
   <h3>"WHEN I CAN'T DEBUG, I SING.
   <br>
-  THEN I REALIZED,
-  <br>
-  MY VOICE IS WORSE THEN THOSE ERRORS."</h3>
+  THEN I REALIZED, MY VOICE IS WORSE THAN THOSE ERRORS."</h3>
   <br>
   :see_no_evil::see_no_evil::see_no_evil:
 </div>
