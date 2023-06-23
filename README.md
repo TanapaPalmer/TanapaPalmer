@@ -52,12 +52,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TanapaPalmer&theme=dracula&background=000000)](https://git.io/streak-stats)
 
- </div>
-
-  <hr>
-
-<div>
-  <p><strong>MOST USED LANGUAGES</strong></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanapaPalmer&hide_progress=true&theme=dracula&background=000000)
   
