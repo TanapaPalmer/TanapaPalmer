@@ -50,11 +50,13 @@
  <div>
   <p><strong>MY STATS</strong></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dracula&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TanapaPalmer&theme=dracula&background=000000)](https://git.io/streak-stats)
 
  </div>
- 
- <div>
+
+  <hr>
+  
+ <div align="center">
     <p><strong>:see_no_evil: "When I can't debug, I sing. Then I realized, my voice is worse than those errors." :see_no_evil:</strong></p>
  </div>
   
