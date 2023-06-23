@@ -47,8 +47,6 @@
  
 <hr>
 
-<br>
-
 <div align="center">
   <p><strong>MY STATS</strong></p>
 
@@ -63,8 +61,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanapaPalmer&theme=dracula&hide_progress=true)
   
 </div>
-
-<br>
 
 <hr>
   
