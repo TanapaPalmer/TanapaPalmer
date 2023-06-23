@@ -47,9 +47,11 @@
  
 <hr>
 
-<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanapaPalmer&show_icons=true&theme=dracula)       
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanapaPalmer&theme=dracula&hide_progress=true)
-</div>
+
 
 <hr>
   
