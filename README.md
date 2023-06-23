@@ -62,6 +62,12 @@
   
 </div>
 
+<div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanapaPalmer&show_icons=true&theme=dracula)
+
+</div>
+
 <hr>
   
 <div align="center">
