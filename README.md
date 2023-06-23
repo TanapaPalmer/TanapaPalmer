@@ -47,7 +47,7 @@
  
  <hr>
 
- <div>
+ <div align="center">
   <p><strong>MY STATS</strong></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TanapaPalmer&theme=dracula&background=000000)](https://git.io/streak-stats)
