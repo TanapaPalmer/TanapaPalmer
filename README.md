@@ -59,13 +59,15 @@
 <div>
   <p><strong>MOST USED LANGUAGES</strong></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanapaPalmer&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanapaPalmer&hide_progress=true&theme=dracula&background=000000)
   
 </div>
+
+<hr>
   
- <div align="center">
-    <p><strong>:see_no_evil: "When I can't debug, I sing. Then I realized, my voice is worse than those errors." :see_no_evil:</strong></p>
- </div>
+<div align="center">
+  <p><strong>:see_no_evil: "When I can't debug, I sing. Then I realized, my voice is worse than those errors." :see_no_evil:</strong></p>
+</div>
   
 
 
