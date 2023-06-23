@@ -56,7 +56,15 @@
 <hr>
   
 <div align="center">
-  <h3><strong>:see_no_evil:"When I can't debug, I sing. Then I realized, my voice is worse than those errors.":see_no_evil:</strong></h3>
+  :see_no_evil::see_no_evil::see_no_evil:
+  <br>
+  <h3>"WHEN I CAN'T DEBUG, I SING.
+  <br>
+  THEN I REALIZED,
+  <br>
+  MY VOICE IS WORSE THEN THOSE ERRORS."</h3>
+  <br>
+  :see_no_evil::see_no_evil::see_no_evil:
 </div>
   
 
