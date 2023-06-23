@@ -46,6 +46,11 @@
  </div>
  
  <hr>
+
+ <div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?TanapaPalmer=your-github-TanapaPalmer&layout=compact&theme=vision-friendly-dark)](https://github.com/TanapaPalmer/github-readme-stats)
+   
+ </div>
  
  <div>
     <p><strong>:see_no_evil: "When I can't debug, I sing. Then I realized, my voice is worse than those errors." :see_no_evil:</strong></p>
