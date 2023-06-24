@@ -57,9 +57,9 @@
   
 <div align="center">
   :see_no_evil::see_no_evil::see_no_evil:
-  <h3>"WHEN I CAN'T DEBUG, I SING.
+  <h3 color="FAAFA2">"WHEN I CAN'T DEBUG, I SING.</h3>
   <br><br>
-  THEN I REALIZED, MY VOICE IS WORSE THAN THOSE ERRORS."</h3>
+  <h3>THEN I REALIZED, MY VOICE IS WORSE THAN THOSE ERRORS."</h3>
   :see_no_evil::see_no_evil::see_no_evil:
 </div>
   
