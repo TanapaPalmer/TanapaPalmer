@@ -37,9 +37,9 @@
     <img src="https://img.shields.io/badge/jinja-F2688A?logo=jinja&logoColor=white&style=for-the-badge" alt="jinja" height="20"/>
   <p>Back-End:</p>
     <img src="https://img.shields.io/badge/node.js-7ED9CA?logo=node.js&logoColor=white&style=for-the-badge" alt="node.js" height="20"/>
+    <img src="https://img.shields.io/badge/express-D291BC?logo=express&logoColor=white&style=for-the-badge" alt="express" height="20"/>
     <img src="https://img.shields.io/badge/django-A0D098?logo=django&logoColor=white&style=for-the-badge" alt="django" height="20"/>
     <img src="https://img.shields.io/badge/flask-A3A6AD?logo=flask&logoColor=white&style=for-the-badge" alt="flask" height="20"/>
-    <img src="https://img.shields.io/badge/express-FFFFD1?logo=express&logoColor=white&style=for-the-badge" alt="express" height="20"/>
     <img src="https://img.shields.io/badge/oop-F7ABBE?logo=oop&logoColor=white&style=for-the-badge" alt="oop" height="20"/>
   <p>Database:</p>
     <img src="https://img.shields.io/badge/mysql-859DDA?logo=mysql&logoColor=white&style=for-the-badge" alt="mysql" height="20"/>
