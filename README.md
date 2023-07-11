@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/ajax-85B1D4?logo=ajax&logoColor=white&style=for-the-badge" alt="ajax" height="20"/>
     <img src="https://img.shields.io/badge/json-FCFC99?logo=json&logoColor=white&style=for-the-badge" alt="json" height="20"/>
     <img src="https://img.shields.io/badge/mongoose-CCBBCC?logo=mongoose&logoColor=white&style=for-the-badge" alt="mongoose" height="20"/>
-    <img src="https://img.shields.io/badge/jinja-DD4492?logo=jinja&logoColor=white&style=for-the-badge" alt="jinja" height="20"/>
+    <img src="https://img.shields.io/badge/jinja-709PC?logo=jinja&logoColor=white&style=for-the-badge" alt="jinja" height="20"/>
   <p>Back-End:</p>
     <img src="https://img.shields.io/badge/node.js-7ED9CA?logo=node.js&logoColor=white&style=for-the-badge" alt="node.js" height="20"/>
     <img src="https://img.shields.io/badge/django-A0D098?logo=django&logoColor=white&style=for-the-badge" alt="django" height="20"/>
