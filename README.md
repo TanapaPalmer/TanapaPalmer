@@ -34,7 +34,6 @@
     <img src="https://img.shields.io/badge/bootstrap-BCA8E6?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap" height="20"/>
     <img src="https://img.shields.io/badge/ajax-85B1D4?logo=ajax&logoColor=white&style=for-the-badge" alt="ajax" height="20"/>
     <img src="https://img.shields.io/badge/json-FCFC99?logo=json&logoColor=white&style=for-the-badge" alt="json" height="20"/>
-    <img src="https://img.shields.io/badge/mongoose-CCBBCC?logo=mongoose&logoColor=white&style=for-the-badge" alt="mongoose" height="20"/>
     <img src="https://img.shields.io/badge/jinja-F2688A?logo=jinja&logoColor=white&style=for-the-badge" alt="jinja" height="20"/>
   <p>Back-End:</p>
     <img src="https://img.shields.io/badge/node.js-7ED9CA?logo=node.js&logoColor=white&style=for-the-badge" alt="node.js" height="20"/>
@@ -44,6 +43,7 @@
   <p>Database:</p>
     <img src="https://img.shields.io/badge/mysql-859DDA?logo=mysql&logoColor=white&style=for-the-badge" alt="mysql" height="20"/>
     <img src="https://img.shields.io/badge/mongodb-FFBE91?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb" height="20"/>
+    <img src="https://img.shields.io/badge/mongoose-CCBBCC?logo=mongoose&logoColor=white&style=for-the-badge" alt="mongoose" height="20"/>
 </div>
  
 <hr>
