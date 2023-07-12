@@ -33,11 +33,11 @@
     <img src="https://img.shields.io/badge/jquery-D7BDAA?logo=jquery&logoColor=white&style=for-the-badge" alt="jquery" height="20"/>
     <img src="https://img.shields.io/badge/bootstrap-BCA8E6?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap" height="20"/>
     <img src="https://img.shields.io/badge/ajax-85B1D4?logo=ajax&logoColor=white&style=for-the-badge" alt="ajax" height="20"/>
-    <img src="https://img.shields.io/badge/json-FCFC99?logo=json&logoColor=white&style=for-the-badge" alt="json" height="20"/>
+    <img src="https://img.shields.io/badge/json-CCE2CB?logo=json&logoColor=white&style=for-the-badge" alt="json" height="20"/>
     <img src="https://img.shields.io/badge/jinja-F2688A?logo=jinja&logoColor=white&style=for-the-badge" alt="jinja" height="20"/>
   <p>Back-End:</p>
     <img src="https://img.shields.io/badge/node.js-7ED9CA?logo=node.js&logoColor=white&style=for-the-badge" alt="node.js" height="20"/>
-    <img src="https://img.shields.io/badge/express-D291BC?logo=express&logoColor=white&style=for-the-badge" alt="express" height="20"/>
+    <img src="https://img.shields.io/badge/express-F6EAC2?logo=express&logoColor=white&style=for-the-badge" alt="express" height="20"/>
     <img src="https://img.shields.io/badge/django-A0D098?logo=django&logoColor=white&style=for-the-badge" alt="django" height="20"/>
     <img src="https://img.shields.io/badge/flask-A3A6AD?logo=flask&logoColor=white&style=for-the-badge" alt="flask" height="20"/>
     <img src="https://img.shields.io/badge/oop-F7ABBE?logo=oop&logoColor=white&style=for-the-badge" alt="oop" height="20"/>
