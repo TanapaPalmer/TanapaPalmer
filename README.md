@@ -49,10 +49,10 @@
  
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TanapaPalmer&show_icons=true&theme=onedark" alt="my Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TanapaPalmer&show_icons=true&theme=radical" alt="my Github Stats"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanapaPalmer&show_icons=true&locale=en&layout=compact&theme=onedark" alt="my Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanapaPalmer&show_icons=true&locale=en&layout=compact&theme=radical" alt="my Github Stats"/>
 
 
 <hr>
