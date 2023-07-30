@@ -12,10 +12,11 @@
 <div>
   <p><strong>ABOUT ME</strong></p>
   <p>:pencil2: My name is Tanapa and I'm originally from Thailand</p>
-  <p>:sparkles: I speak 3 languages: Thai, English and German</p>
-  <p>:memo: I am currently a student at Coding Dojo for Software Developer</p>
-  <p>:rocket: My goal is to become a Full Stack Developer</p>
-  <p>:bug: Fun fact I like to debug while I'm having my Matcha Latte next to me</p>
+  <p>:pushpin: I speak 3 languages: Thai, English and German</p>
+  <p>:technologist: I've just graduated from Coding Dojo for Software Developer</p>
+  <p>:rocket: Future Full Stack Developer</p>
+  <p>:art: I love to read, draw, sing, play guitar, write the songs, design and code on my free time</p>
+  <p>:bug: Fun fact I like to debug while I'm having my Matcha Latte next to me</p> 
 </div>
 
 <hr>
