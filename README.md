@@ -13,8 +13,8 @@
   <p><strong>ABOUT ME</strong></p>
   <p>:pencil2: My name is Tanapa and I'm originally from Thailand</p>
   <p>:pushpin: I speak 3 languages: Thai, English and German</p>
-  <p>:boom: I've just graduated from Coding Dojo for Software Developer</p>
-  <p>:rocket: Future Full Stack Developer</p>
+  <p>:boom: I've just graduated from Coding Dojo (an immersive 32 week coding bootcamp) for Software Development</p>
+  <p>:rocket: I am a Full Stack Developer</p>
   <p>:art: I love to read, draw, sing, play guitar, write the songs, design and code on my free time</p>
   <p>:bug: Fun fact I like to debug while I'm having my Matcha Latte next to me</p> 
 </div>
