@@ -79,6 +79,8 @@
   <p>as they have challenged me to explore new boundaries and embrace the power of technology.</p>
   <p>Let's delve deeper into each, uncovering the excitement and impact they bring to the table.</p>
   <br><br>
+  <p>--------------------------------------------------------------------------------------------------------------------</p>
+  <br>
   <p><strong>:tada: SOLO PROJECT:</strong></p>
   <a href="https://github.com/TanapaPalmer/SOLO-PROJECT"><img src="https://github.com/TanapaPalmer/SOLO-PROJECT/assets/119079803/6e5f2edb-a59a-4703-bf7a-5a3519b279f0" alt="project_picture" width="500"/></a>
   <br><br>
@@ -91,6 +93,8 @@
   <p>I decided to create this project to bring joy and knowledge to users who share the same interest.</p>
   <p>Let's spread happiness and learning together!</p>
   <br><br>
+  <p>--------------------------------------------------------------------------------------------------------------------</p>
+  <br>
   <p><strong>:tada: GROUP PROJECT:</strong></p>
   <a href="https://github.com/worldofpythons/CommunityOnAir"><img src="https://github.com/TanapaPalmer/TanapaPalmer/assets/119079803/b4321326-adf9-447e-8207-a17344d30392" alt="project_picture" width="500"/></a>
   <br><br>
