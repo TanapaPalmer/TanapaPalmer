@@ -102,8 +102,8 @@
   <p>It aims at providing real-time reporting and information dissemination.</p>
   <p>It ensures the safety, well-being, and awareness of residents within our city.</p>
   <p>Our project seeks to create a connected community where citizens can stay informed about local events, incidents, and important updates.</p>
-  <p>This project was developed using Python as the backend language, Flask as the web framework, and MySQL.</p>
-  <p>MySQL is a database management system used to handle data storage and retrieval.</p>
+  <p>This project was developed using Python as the backend language, Flask as the web framework, and MySQL</p>
+  <p>as the database management system to handle data storage and retrieval.</p>
   <p>The frontend was built using HTML, CSS, and Bootstrap.</p>
   <p>It enables a modern and responsive user interface, enhancing the overall user experience.</p>
   <p>To enhance the frontend further and enable dynamic content rendering, we utilized Jinja as the template engine.</p>
