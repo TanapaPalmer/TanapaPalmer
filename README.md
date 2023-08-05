@@ -69,7 +69,7 @@
 
 <hr>
 
-<br><br>
+<br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=50:FEAD89,90:F1E0B0&height=90&section=header&text=my%20projects&fontSize=50&animation=twinkling&fontColor=ffffff"/>
   <br><br><br>
