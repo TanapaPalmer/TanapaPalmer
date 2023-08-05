@@ -13,7 +13,7 @@
   <p><strong>ABOUT ME</strong></p>
   <p>:pencil2: My name is Tanapa and I'm originally from Thailand</p>
   <p>:pushpin: I speak 3 languages: Thai, English and German</p>
-  <p>:boom: I have graduated from Coding Dojo, an immersive 32-week coding bootcamp for Software Development</p>
+  <p>:memo: I have graduated from Coding Dojo, an immersive 32-week coding bootcamp for Software Development</p>
   <p>:rocket: I am a passionate Software Developer with 9 months of experience in Full-Stack Development</p>
   <p>:art: I love to read, draw, sing, play guitar, write the songs, design and code on my free time</p>
   <p>:bug: Fun fact I like to debug while I'm having my Matcha Latte next to me</p> 
@@ -23,6 +23,7 @@
 
 <div>
   <p><strong>LANGUAGES & TOOLS</strong></p>
+
   <p>Languages:</p>
     <img src="https://img.shields.io/badge/html-FAAFA2?logo=html5&logoColor=white&style=for-the-badge" alt="html" height="20"/>
     <img src="https://img.shields.io/badge/Css-C9E0EC?logo=css3&logoColor=white&style=for-the-badge" alt="css" height="20"/>
@@ -64,6 +65,45 @@
   <br><br>
   THEN I REALIZED, MY VOICE IS WORSE THAN THOSE ERRORS."</h3>
   :see_no_evil::see_no_evil::see_no_evil:
+</div>
+
+<hr>
+
+<br><br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=50:6C5B7B,90:568EA6&height=90&section=header&text=my%20projects&fontSize=60&animation=twinkling&fontColor=ffffff"/>
+  <br><br><br>
+  <p>Introducing two of my proudest achievements:</p>
+  <p>DID YOU KNOW, a thrilling solo project, and Community On Air, an innovative group endeavor.</p>
+  <p>These projects hold a special place in my heart, as they have challenged me to explore new boundaries and embrace the power of technology.</p>
+  <p>Let's delve deeper into each, uncovering the excitement and impact they bring to the table.</p>
+  <br><br>
+  <p><strong>:tada: SOLO PROJECT:</strong></p>
+  <a href="https://github.com/TanapaPalmer/SOLO-PROJECT"><img src="https://github.com/TanapaPalmer/SOLO-PROJECT/assets/119079803/6e5f2edb-a59a-4703-bf7a-5a3519b279f0" alt="project_picture" width="500"/></a>
+  <br><br>
+  <p>DID YOU KNOW is one of my final Solo Project and an exciting project using Python.</p>
+  <p>It uses MySQL to store a database of interesting facts displayed on an interactive HTML page.</p>
+  <p>It's allowing users to explore and enjoy content posted by others.</p>
+  <p>Users can create, edit, delete, and comment on posts, making it engaging.</p>
+  <p>The project offers specific routes for functions like easy post editing and a fun Fact Game.</p>
+  <p>It aims to entertain and expand users' knowledge through shared facts.</p>
+  <p>I decided to create this project to bring joy and knowledge to users who share the same interest.</p>
+  <p>Let's spread happiness and learning together!</p>
+  <br><br>
+  <p><strong>:tada: GROUP PROJECT:</strong></p>
+  <a href="https://github.com/worldofpythons/CommunityOnAir"><img src="https://github.com/TanapaPalmer/TanapaPalmer/assets/119079803/b4321326-adf9-447e-8207-a17344d30392" alt="project_picture" width="500"/></a>
+  <br><br>
+  <p>Community On Air is an innovative project.</p>
+  <p>It aims at providing real-time reporting and information dissemination.</p>
+  <p>It ensures the safety, well-being, and awareness of residents within our city.</p>
+  <p>Our project seeks to create a connected community where citizens can stay informed about local events, incidents, and important updates.</p>
+  <p>This project was developed using Python as the backend language, Flask as the web framework, and MySQL.</p>
+  <p>MySQL is a database management system used to handle data storage and retrieval.</p>
+  <p>The frontend was built using HTML, CSS, and Bootstrap.</p>
+  <p>It enables a modern and responsive user interface, enhancing the overall user experience.</p>
+  <p>To enhance the frontend further and enable dynamic content rendering, we utilized Jinja as the template engine.</p>
+  <p>Jinja allowed us to seamlessly integrate Python code with the HTML templates.</p>
+  <p>Jinja's also making it easier to generate dynamic content and improve code reusability.</p>
 </div>
   
 
