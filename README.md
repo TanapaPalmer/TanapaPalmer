@@ -85,8 +85,8 @@
   <img src="https://github.com/TanapaPalmer/SOLO-PROJECT/assets/119079803/6e5f2edb-a59a-4703-bf7a-5a3519b279f0" alt="project_picture" width="500"/>
   <br><br>
   <p><a href="https://github.com/TanapaPalmer/SOLO-PROJECT">Did You Know</a> is one of my final Solo Project and an exciting project using Python.</p>
-  <p>It uses MySQL to store a database of interesting facts displayed on an interactive HTML page.</p>
-  <p>It's allowing users to explore and enjoy content posted by others.</p>
+  <p>It uses MySQL to store a database of interesting facts displayed on an interactive HTML page,</p>
+  <p>allowing users to explore and enjoy content posted by others.</p>
   <p>Users can create, edit, delete, and comment on posts, making it engaging.</p>
   <p>The project offers specific routes for functions like easy post editing and a fun Fact Game.</p>
   <p>It aims to entertain and expand users' knowledge through shared facts.</p>
@@ -98,14 +98,14 @@
   <p><strong>:tada: GROUP PROJECT:</strong></p>
   <img src="https://github.com/TanapaPalmer/TanapaPalmer/assets/119079803/b4321326-adf9-447e-8207-a17344d30392" alt="project_picture" width="500"/>
   <br><br>
-  <p><a href="https://github.com/worldofpythons/CommunityOnAir">Community On-Air</a> is an innovative project.</p>
-  <p>It aims at providing real-time reporting and information dissemination.</p>
-  <p>It ensures the safety, well-being, and awareness of residents within our city.</p>
+  <p><a href="https://github.com/worldofpythons/CommunityOnAir">Community On-Air</a> is an innovative project</p>
+  <p>aimed at providing real-time reporting and information dissemination</p>
+  <p>to ensure the safety, well-being, and awareness of residents within our city.</p>
   <p>Our project seeks to create a connected community where citizens can stay informed about local events, incidents, and important updates.</p>
   <p>This project was developed using Python as the backend language, Flask as the web framework, and MySQL</p>
   <p>as the database management system to handle data storage and retrieval.</p>
-  <p>The frontend was built using HTML, CSS, and Bootstrap.</p>
-  <p>It enables a modern and responsive user interface, enhancing the overall user experience.</p>
+  <p>The frontend was built using HTML, CSS, and Bootstrap,</p>
+  <p>enabling a modern and responsive user interface to enhance the overall user experience.</p>
   <p>To enhance the frontend further and enable dynamic content rendering, we utilized Jinja as the template engine.</p>
   <p>Jinja allowed us to seamlessly integrate Python code with the HTML templates,</p>
   <p>making it easier to generate dynamic content and improve code reusability.</p>
