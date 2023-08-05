@@ -71,11 +71,12 @@
 
 <br><br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=50:6C5B7B,90:568EA6&height=90&section=header&text=my%20projects&fontSize=60&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=50:FEAD89,90:F1E0B0&height=90&section=header&text=my%20projects&fontSize=50&animation=twinkling&fontColor=ffffff"/>
   <br><br><br>
   <p>Introducing two of my proudest achievements:</p>
   <p>DID YOU KNOW, a thrilling solo project, and Community On Air, an innovative group endeavor.</p>
-  <p>These projects hold a special place in my heart, as they have challenged me to explore new boundaries and embrace the power of technology.</p>
+  <p>These projects hold a special place in my heart,</p>
+  <p>as they have challenged me to explore new boundaries and embrace the power of technology.</p>
   <p>Let's delve deeper into each, uncovering the excitement and impact they bring to the table.</p>
   <br><br>
   <p><strong>:tada: SOLO PROJECT:</strong></p>
