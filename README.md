@@ -107,8 +107,8 @@
   <p>The frontend was built using HTML, CSS, and Bootstrap.</p>
   <p>It enables a modern and responsive user interface, enhancing the overall user experience.</p>
   <p>To enhance the frontend further and enable dynamic content rendering, we utilized Jinja as the template engine.</p>
-  <p>Jinja allowed us to seamlessly integrate Python code with the HTML templates.</p>
-  <p>Jinja's also making it easier to generate dynamic content and improve code reusability.</p>
+  <p>Jinja allowed us to seamlessly integrate Python code with the HTML templates,</p>
+  <p>making it easier to generate dynamic content and improve code reusability.</p>
 </div>
   
 
