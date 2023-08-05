@@ -82,9 +82,9 @@
   <p>--------------------------------------------------------------------------------------------------------------------</p>
   <br>
   <p><strong>:tada: SOLO PROJECT:</strong></p>
-  <a href="https://github.com/TanapaPalmer/SOLO-PROJECT"><img src="https://github.com/TanapaPalmer/SOLO-PROJECT/assets/119079803/6e5f2edb-a59a-4703-bf7a-5a3519b279f0" alt="project_picture" width="500"/></a>
+  <img src="https://github.com/TanapaPalmer/SOLO-PROJECT/assets/119079803/6e5f2edb-a59a-4703-bf7a-5a3519b279f0" alt="project_picture" width="500"/>
   <br><br>
-  <p>DID YOU KNOW is one of my final Solo Project and an exciting project using Python.</p>
+  <p><a href="https://github.com/TanapaPalmer/SOLO-PROJECT">Did You Know</a> is one of my final Solo Project and an exciting project using Python.</p>
   <p>It uses MySQL to store a database of interesting facts displayed on an interactive HTML page.</p>
   <p>It's allowing users to explore and enjoy content posted by others.</p>
   <p>Users can create, edit, delete, and comment on posts, making it engaging.</p>
@@ -96,9 +96,9 @@
   <p>--------------------------------------------------------------------------------------------------------------------</p>
   <br>
   <p><strong>:tada: GROUP PROJECT:</strong></p>
-  <a href="https://github.com/worldofpythons/CommunityOnAir"><img src="https://github.com/TanapaPalmer/TanapaPalmer/assets/119079803/b4321326-adf9-447e-8207-a17344d30392" alt="project_picture" width="500"/></a>
+  <img src="https://github.com/TanapaPalmer/TanapaPalmer/assets/119079803/b4321326-adf9-447e-8207-a17344d30392" alt="project_picture" width="500"/>
   <br><br>
-  <p>Community On Air is an innovative project.</p>
+  <p><a href="https://github.com/worldofpythons/CommunityOnAir">Community On-Air</a> is an innovative project.</p>
   <p>It aims at providing real-time reporting and information dissemination.</p>
   <p>It ensures the safety, well-being, and awareness of residents within our city.</p>
   <p>Our project seeks to create a connected community where citizens can stay informed about local events, incidents, and important updates.</p>
