@@ -78,8 +78,8 @@
   <p>These projects hold a special place in my heart, as they have challenged me to explore new boundaries and embrace the power of technology.</p>
   <p>Let's delve deeper into each, uncovering the excitement and impact they bring to the table.</p>
   <br><br>
-  <kbd><img src="https://github.com/TanapaPalmer/SOLO-PROJECT/assets/119079803/6e5f2edb-a59a-4703-bf7a-5a3519b279f0" alt="project_picture" height="150"/></kbd>
-  <kbd><img src="https://github.com/TanapaPalmer/TanapaPalmer/assets/119079803/b4321326-adf9-447e-8207-a17344d30392" alt="project_picture" height="150"/></kbd>
+  <kbd><img src="https://github.com/TanapaPalmer/SOLO-PROJECT/assets/119079803/6e5f2edb-a59a-4703-bf7a-5a3519b279f0" alt="project_picture" height="180"/>
+  <img src="https://github.com/TanapaPalmer/TanapaPalmer/assets/119079803/b4321326-adf9-447e-8207-a17344d30392" alt="project_picture" height="180"/></kbd>
   <br><br>
   <p>--------------------------------------------------------------------------------------------------------------------</p>
   <p><strong>:tada: SOLO PROJECT:</strong></p>
