@@ -71,7 +71,7 @@
 
 <br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=50:FEAD89,90:F1E0B0&height=90&section=header&text=my%20projects&fontSize=50&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=50:FEAD89,90:F1E0B0&height=90&section=header&text=MY%20PROJECTS&fontSize=50&animation=twinkling&fontColor=ffffff"/>
   <br><br><br>
   <p>Introducing two of my proudest achievements:</p>
   <p>DID YOU KNOW, a thrilling solo project, and Community On Air, an innovative group endeavor.</p>
