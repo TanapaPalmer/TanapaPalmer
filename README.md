@@ -80,7 +80,7 @@
   <br><br>
   <kbd><img src="https://github.com/TanapaPalmer/SOLO-PROJECT/assets/119079803/6e5f2edb-a59a-4703-bf7a-5a3519b279f0" alt="project_picture" height="180"/>
   <img src="https://github.com/TanapaPalmer/TanapaPalmer/assets/119079803/b4321326-adf9-447e-8207-a17344d30392" alt="project_picture" height="180"/></kbd>
-  <br><br>
+  <br><br><br>
   <p>--------------------------------------------------------------------------------------------------------------------</p>
   <p><strong>:tada: SOLO PROJECT:</strong></p>
   <br>
