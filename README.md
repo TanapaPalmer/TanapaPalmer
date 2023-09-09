@@ -82,7 +82,9 @@
   <p>--------------------------------------------------------------------------------------------------------------------</p>
   <br>
   <p><strong>:tada: SOLO PROJECT:</strong></p>
+  <br>
   <kbd><img src="https://github.com/TanapaPalmer/SOLO-PROJECT/assets/119079803/6e5f2edb-a59a-4703-bf7a-5a3519b279f0" alt="project_picture" height="180"/></kbd>
+  <br>
   <br>
   <br>
   <p><a href="https://github.com/TanapaPalmer/SOLO-PROJECT">Did You Know</a> is one of my final Solo Project and an exciting project using Python.</p>
@@ -97,7 +99,9 @@
   <p>--------------------------------------------------------------------------------------------------------------------</p>
   <br>
   <p><strong>:tada: GROUP PROJECT:</strong></p>
+  <br>
   <kbd><img src="https://github.com/TanapaPalmer/TanapaPalmer/assets/119079803/b4321326-adf9-447e-8207-a17344d30392" alt="project_picture" height="180"/></kbd>
+  <br>
   <br>
   <br>
   <p><a href="https://github.com/worldofpythons/CommunityOnAir">Community On-Air</a> is an innovative project</p>
